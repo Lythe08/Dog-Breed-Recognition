@@ -25,4 +25,4 @@ the jetson-inference library, it returns its prediction of the dog's breed and i
   b. with your own image, enter "python3 dog_breed_recognition.py /path/to/image" where /path/to/image is the path to the image that you want to run through the model.
 5. The result of the model's prediction and accuracy is printed as the last line in the terminal for you to view.
 
-[View a video explanation here](video link)
+Here is a [video demonstration](https://youtu.be/p0pZBpEXp8w) on how to run the model after downloading the required files and library.
