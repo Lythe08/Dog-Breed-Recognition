@@ -11,7 +11,6 @@ Here are some image results:
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 This project uses a resnet-18 onnx model which was retrained on 70 different dog breeds to identify a dog's breed in any image input into the model. After calling the imagenet file from
 the jetson-inference library, it returns its prediction of the dog's breed and its certainty in its prediction.
 
