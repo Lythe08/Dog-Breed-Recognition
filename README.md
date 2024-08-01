@@ -2,7 +2,7 @@
 
 This project utilizes the jetson-inference library to run a machine learning model on a jetson nano device. This model can distinguish the 70 different breeds that it was trained on, and it
 will take in an input image of a dog and return a prediction of its breed. Knowing your dog's breed provides information on how to accomodate their lifestyles and personalities, allowing 
-owners to provide them the best life possible.
+owners to provide them the best care possible.
 
 Here are some image results:
 
