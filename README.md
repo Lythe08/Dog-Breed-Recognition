@@ -5,6 +5,7 @@ will take in an input image of a dog and return a prediction of its breed. Knowi
 owners to provide them the best life possible.
 
 Here are some image results:
+
 ![Vizsla_Result](https://github.com/user-attachments/assets/90fbd7d7-78e8-4491-b0b7-62d8f275cdfe)
 ![Borzoi_Result](https://github.com/user-attachments/assets/6ccb2527-4482-44a4-bbb3-32c177f30180)
 
